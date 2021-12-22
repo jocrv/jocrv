@@ -1,6 +1,6 @@
 ### Hello, Peeps!
 
-🔭 I’m currently working on:
+ I’m currently working on:
 JavaScript 
 Java 
 Python
@@ -9,11 +9,11 @@ React
 HTML/CSS
 Flutter and iOs Developer 
 
-🌱 I’m currently learning:
+ I’m currently learning:
 Machine Learning and AI
 
 
-👯 I’m looking to collaborate on: Python Projects 
+ I’m looking to collaborate on: Python Projects 
 
 ⚡ Fun fact:
 

@@ -6,12 +6,19 @@ Java
 Python
 Mongodb
 React
+HTML/CSS
+Flutter and iOs Developer 
 
 🌱 I’m currently learning:
 Machine Learning and AI
 
+
+👯 I’m looking to collaborate on: Python Projects 
+
 ⚡ Fun fact:
-I'm computer science student and academic researcher. 
+
+- I love discovery how things are made.
+- I'm computer science student and academic researcher. 
 
 ✨ Happy Coding! ✨
 

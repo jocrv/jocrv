@@ -19,6 +19,8 @@ Machine Learning and AI
 
 - I love discovery how things are made.
 - I'm computer science student and academic researcher. 
+- my first step was to have studied storytelling to tech five years ago. And I'm now ready for the second, third, fourth step.
+
 
 ✨ Happy Coding! ✨
 

@@ -1,4 +1,4 @@
-### Hello, Peeps! 👋
+### Hello, Peeps!
 
 🔭 I’m currently working on:
 JavaScript 

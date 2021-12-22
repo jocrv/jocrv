@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, Peeps! 👋
 
 🔭 I’m currently working on:
 JavaScript 
@@ -12,6 +12,8 @@ Machine Learning and AI
 
 ⚡ Fun fact:
 I'm science computer student and academic researcher. 
+
+Happy Coding! 
 
 <!--
 **jocrv/jocrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

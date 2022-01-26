@@ -5,7 +5,7 @@ Linux;
 Container;
 bash;
 Database;
-iOs web developer;
+iOs development;
 
 Programming Language: 
 JavaScript 

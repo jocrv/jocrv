@@ -1,11 +1,11 @@
 ### Hello, Peeps!
 
 I’m currently working on:
-Linux
-Database
-Container
-bash
-iOs web developer
+Linux;
+Container;
+bash;
+Database;
+iOs web developer;
 
 Programming Language: 
 JavaScript 
@@ -15,6 +15,8 @@ Mongodb
 React
 HTML/CSS
 Flutter 
+React
+.NET
 
  I’m currently learning:
 Machine Learning and AI

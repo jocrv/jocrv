@@ -1,13 +1,20 @@
 ### Hello, Peeps!
 
- I’m currently working on:
+I’m currently working on:
+Linux
+Database
+Container
+bash
+iOs web developer
+
+Programming Language: 
 JavaScript 
 Java 
 Python
 Mongodb
 React
 HTML/CSS
-Flutter and iOs Developer 
+Flutter 
 
  I’m currently learning:
 Machine Learning and AI

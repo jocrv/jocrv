@@ -4,7 +4,7 @@ I’m currently working on:
 Linux;
 Container;
 bash;
-Database;
+Database (Oracle);
 iOs development;
 
 Programming Language: 

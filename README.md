@@ -3,7 +3,7 @@
 I’m currently working on:
 Linux;
 Container;
-bash;
+Java;
 Database (Oracle);
 iOs development;
 

@@ -19,6 +19,7 @@ React
 C#
 C++
 .NET
+html/css
 
  I’m currently learning:
 Machine Learning and AI

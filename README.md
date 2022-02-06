@@ -16,6 +16,8 @@ React
 HTML/CSS
 Flutter 
 React
+C#
+C++
 .NET
 
  I’m currently learning:

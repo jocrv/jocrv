@@ -33,7 +33,8 @@ Machine Learning and AI
 - my first step was to have studied storytelling to tech five years ago. And I'm now ready for the second, third, fourth step.
 
 Resume:
-[Joana.txt](https://github.com/jocrv/jocrv/files/8103455/Joana.Crivella.txt)
+[Joana.txt](https://github.com/jocrv/jocrv/files/8104956/Joana.Crivella.txt)
+
 
 
 

@@ -20,6 +20,7 @@ C#
 C++
 .NET
 html/css
+Julia
 
  I’m currently learning:
 Machine Learning and AI

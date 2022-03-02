@@ -51,8 +51,6 @@ Resume:
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jocrv&show_icons=true)  
-
 ![Profile views](https://gpvc.arturio.dev/jocrv)  
 
 <!--

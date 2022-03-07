@@ -31,7 +31,7 @@ Machine Learning and AI
 ⚡ Fun fact:
 
 - I'm Computer Science and Statistic student and academic researcher. 
-- my first step was to have studied storytelling to tech five years ago. And I'm now ready for the second, third, fourth step.
+- my first step was to have studied storytelling to tech eighteen years ago. And I'm now ready for the second, third, fourth step.
 
 Resume:
 [Joana.txt](https://github.com/jocrv/jocrv/files/8104956/Joana.Crivella.txt)

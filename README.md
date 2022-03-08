@@ -2,25 +2,25 @@
 
 I’m currently working on:
 Linux;
-Container;
+Ruby;
 Java;
-Database (Oracle);
-iOs development;
+Databases (Oracle);
+
 
 Programming Language: 
 JavaScript 
 Java 
 Python
-Mongodb
+Ruby
 React
 HTML/CSS
 Flutter 
-React
 C#
 C++
 .NET
-html/css
 Julia
+html/css
+
 
  I’m currently learning:
 Machine Learning and AI

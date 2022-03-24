@@ -30,7 +30,7 @@ Machine Learning and AI
 
 ⚡ Fun fact:
 
-- I'm Computer Engineer Undergraduate Degree and Statistic Bachelor Degree student and academic researcher. 
+- I'm Computer Engineer and Statistic Undergraduate Degree student and academic researcher. 
 - my first step was to have studied storytelling to tech eighteen years ago. And I'm now ready for the second, third, fourth step.
 
 Resume:

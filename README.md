@@ -1,10 +1,10 @@
 ### Hello, Peeps!
 
 I’m currently working on:
-Linux;
-Ruby;
-Java;
-Databases (Oracle);
+iOs;
+Python;
+Artificial intelligence ;
+Machine Learning;
 
 
 Programming Language: 
@@ -34,7 +34,8 @@ Machine Learning and AI
 - my first step was to have studied storytelling to tech eighteen years ago. And I'm now ready for the second, third, fourth step.
 
 Resume:
-[Joana.txt](https://github.com/jocrv/jocrv/files/8421951/Joana.txt)
+[Joana.txt](https://github.com/jocrv/jocrv/files/8682652/Joana.txt)
+
 
 
 

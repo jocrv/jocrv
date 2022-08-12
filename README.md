@@ -1,3 +1,4 @@
+
 ### Hello, Peeps!
 
 I’m currently working on:
@@ -34,7 +35,8 @@ Machine Learning and AI
 - my first step was to have studied storytelling to tech eighteen years ago. And I'm now ready for the second, third, fourth step.
 
 Resume:
-[Joana.txt](https://github.com/jocrv/jocrv/files/8682652/Joana.txt)
+[joana.txt](https://github.com/jocrv/jocrv/files/9328871/joana.txt)
+
 
 
 

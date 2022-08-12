@@ -2,6 +2,7 @@
 ### Hello, Peeps!
 
 I’m currently working on:
+Javascript;
 iOs;
 Python;
 Artificial intelligence ;

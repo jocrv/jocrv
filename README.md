@@ -36,8 +36,8 @@ Machine Learning and AI
 - my first step was to have studied storytelling to tech eighteen years ago. And I'm now ready for the second, third, fourth step.
 
 Resume:
-[joana.txt](https://github.com/jocrv/jocrv/files/9328871/joana.txt)
-
+[joana.txt]
+[joana.txt](https://github.com/jocrv/jocrv/files/9822571/joana.txt)
 
 
 
@@ -60,6 +60,7 @@ Resume:
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 ![Profile views](https://gpvc.arturio.dev/jocrv)  
+
 
 <!--
 **jocrv/jocrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

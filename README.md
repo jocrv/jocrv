@@ -37,7 +37,7 @@ Machine Learning and AI
 
 Resume:
 [joana.txt](https://github.com/jocrv/jocrv/files/9822571/joana.txt)
-info contact: +1 3306194109
+info contact: +1 3304591905
 
 
 

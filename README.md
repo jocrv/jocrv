@@ -28,7 +28,11 @@ html/css
 Machine Learning and AI
 
 
- I’m looking to collaborate on: Python Projects 
+ I’m looking to collaborate on: 
+ Python Projects 
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+ ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ⚡ Fun fact:
 

@@ -42,6 +42,7 @@ get in touch: +1 3305244984
 
 
 
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
 
 

@@ -19,8 +19,6 @@ Ruby
 React
 HTML/CSS
 Flutter 
-
-
 C#
 C++
 .NET

@@ -27,7 +27,7 @@ html/css
 
 
  I’m currently learning:
-Machine Learning and AI
+Java
 
 
  I’m looking to collaborate on: 

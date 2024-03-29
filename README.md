@@ -3,7 +3,7 @@
 
 I’m currently working on:
 C++;
-Go;
+R;
 Python;
 Artificial intelligence ;
 Machine Learning;

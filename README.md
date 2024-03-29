@@ -42,7 +42,7 @@ Java
 - my first step was to have studied storytelling to tech eighteen years ago. And I'm now ready for the second, third, fourth step.
 
 Resume:
-[joana.txt]()
+[joana.txt](https://github.com/jocrv/summary/blob/main/IT%20profile%20.pdf)
 get in touch: +1 3305244984
 
 

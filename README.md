@@ -43,7 +43,7 @@ Java
 
 Resume:
 [joana.txt](https://github.com/jocrv/summary/blob/main/IT%20RESUME.pdf))
-get in touch: +1 3305244984
+get in touch
 
 
 

@@ -38,7 +38,7 @@ Java
 
 ⚡ Fun fact:
 
-- I'm Computer Engineer and Statistic Undergraduate Degree student and academic researcher. 
+- I'm Computer Engineer and Physics Undergraduate Degree  at Pontifícia Universidade Católica. PUC  
 - my first step was to have studied storytelling to tech eighteen years ago. And I'm now ready for the second, third, fourth step.
 
 Resume:

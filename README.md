@@ -41,9 +41,7 @@ Java
 - I'm Computer Engineer and Physics Undergraduate Degree  at Pontifícia Universidade Católica. PUC  
 - my first step was to have studied storytelling to tech eighteen years ago. And I'm now ready for the second, third, fourth step.
 
-Resume:
-[joana.txt](https://github.com/jocrv/summary/blob/main/IT%20RESUME.pdf))
-get in touch +1 330 5244984
+
 
 
 
